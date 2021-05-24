@@ -1,3 +1,4 @@
+#1264ms memory:14.8MB
 def twoSum(nums, target):
         for i,num in enumerate(nums):
             add = target - num
